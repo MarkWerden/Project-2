@@ -1,5 +1,6 @@
 # Project 2: Dogecoin vs Bitcoin
 ###What is Dogecoin?
+
 Dogecoin is a cryptocurrency created by software engineers Billy Markus and Jackson Palmer, who decided to create a payment system as a joke, making fun of the wild speculation in cryptocurrencies at the time. It was introduced on December 6, 2013, and quickly developed its own online community. Elon Musk frequently mentions or talks about Dogecoin on his Twitter account, boosting its popularity a significant amount in recent years. The dataset used provides the history of daily prices of Dogecoin. The data starts from 17-Sep-2014. All the column descriptions are provided. Currency is USD.
 
 ![image](https://user-images.githubusercontent.com/95598645/161183803-f2d26a7c-4fb3-441c-9d5e-be6b8ef28edf.png)
