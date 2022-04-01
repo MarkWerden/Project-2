@@ -1,6 +1,6 @@
 # Project-2
 
-https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2021/11/20/2924091-133396736.jpg?itok=SYDnwske
+![image](https://user-images.githubusercontent.com/95598645/161183803-f2d26a7c-4fb3-441c-9d5e-be6b8ef28edf.png)
 
 
 Cleaning steps:
