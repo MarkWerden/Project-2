@@ -1,4 +1,4 @@
-# Project-2
+# Project 2: Dogecoin vs Bitcoin
 
 ![image](https://user-images.githubusercontent.com/95598645/161183803-f2d26a7c-4fb3-441c-9d5e-be6b8ef28edf.png)
 
